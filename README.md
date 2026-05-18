@@ -377,8 +377,6 @@ directories.txt
 dictionary.txt
 ```
 
----
-
 ## 🧩 Step 3：运行扫描
 
 ```bash
@@ -420,5 +418,4 @@ aiohttp
 tqdm
 ```
 
----
 
