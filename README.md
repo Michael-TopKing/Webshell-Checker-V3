@@ -366,7 +366,9 @@ global_limit=220
 ## 🧩 Step 1：安装依赖
 
 ```bash
-pip install aiohttp
+git clone https://github.com/Michael-TopKing/Webshell-Checker-V3.git
+cd Webshell-Checker-V3
+pip3 install -r requirements.txt
 ```
 
 
@@ -404,18 +406,5 @@ findings_verbose.log
 --min-score 65
 ```
 
-
-# 📦 9. requirements.txt
-
-```txt
-aiohttp>=3.9.0
-```
-
-（可选增强）
-
-```txt
-aiohttp
-tqdm
-```
 
 
