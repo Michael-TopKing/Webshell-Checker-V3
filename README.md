@@ -99,11 +99,9 @@ score >= min_score AND matched >= 2
 * found_webshells.txt（结果）
 * findings_verbose.log（详细分析）
 
----
 
 # 🧩 3. 关键模块解析
 
----
 
 ## 🔍 (1) 扫描模块
 
