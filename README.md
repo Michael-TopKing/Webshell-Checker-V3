@@ -27,7 +27,6 @@
 * `--directories`：目录列表（例如 `/admin/`, `/upload/`）
 * `--dictionary`：文件字典（如 `shell.php`, `cmd.php`）
 
----
 ## ⚙️ 执行流程
 
 ### 🧩 Step 1：组合目标
