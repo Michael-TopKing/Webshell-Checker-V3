@@ -363,7 +363,7 @@ global_limit=220
 # 🛠️ 8. 如何部署和使用（Step-by-step）
 
 
-## 🧩 Step 1：安装依赖
+## 🧩 Step 1：安装
 
 ```bash
 git clone https://github.com/Michael-TopKing/Webshell-Checker-V3.git
