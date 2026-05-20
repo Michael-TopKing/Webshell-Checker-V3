@@ -382,7 +382,7 @@ dictionary.txt
 ## 🧩 Step 3：运行扫描
 
 ```bash
-python3 webshell_detector.py \
+python3 check_webshell.py \
   -d directories.txt \
   -w dictionary.txt \
   -o found_webshells.txt \
